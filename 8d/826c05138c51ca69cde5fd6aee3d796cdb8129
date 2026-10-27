@@ -1,0 +1,30 @@
+.cargo/config.toml
+  h_a2ad924e60e190 1-35
+.gitignore
+  h_a2ad924e60e190 1-4
+.pre-commit-config.yaml
+  h_a2ad924e60e190 1-30
+Cargo.lock
+  h_a2ad924e60e190 1-1895
+Cargo.toml
+  h_a2ad924e60e190 1-13
+LICENSE
+  h_a2ad924e60e190 1-674
+README.md
+  h_a2ad924e60e190 1-106
+rust-toolchain.toml
+  h_a2ad924e60e190 1-3
+src/main.rs
+  h_a2ad924e60e190 1-533
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8d826c05138c51ca69cde5fd6aee3d796cdb8129",
+  "prompts": {},
+  "humans": {
+    "h_a2ad924e60e190": {
+      "author": "RikaKit2 <174120712+RikaKit2@users.noreply.github.com>"
+    }
+  }
+}
